@@ -1,0 +1,10 @@
+{
+    "editor.formatOnSave": true,
+    "python.terminal.activateEnvironment": true,
+    "python.pythonPath": "/home/vu/fx/work_3_10/bin/python",
+    "python.languageServer": "Pylance",
+    "python.linting.enabled": true,
+    "python.linting.lintOnSave": true,
+    "python.linting.pylintEnabled": true,
+    "python.formatting.provider": "yapf"
+}
